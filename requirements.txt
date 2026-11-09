@@ -1,0 +1,42 @@
+# ==========================================
+# AEGIS ENGINE - PYTHON DEPENDENCIES
+# Python 3.12+
+# ==========================================
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+httpx
+
+# Agentic AI
+langgraph
+langchain-core
+langchain-ollama
+
+# RAG and Document Processing
+chromadb
+pymupdf
+pytesseract
+python-docx
+pandas
+numpy
+rank-bm25
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Frontend
+streamlit
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Development and Code Quality
+ruff

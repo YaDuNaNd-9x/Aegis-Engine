@@ -1,0 +1,51 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+storage/chroma/
+chroma/
+
+# Uploaded and confidential data
+data/documents/*
+data/uploads/*
+!data/documents/.gitkeep
+!data/uploads/.gitkeep
+
+# Generated reports and audit logs
+storage/reports/*
+storage/audit/*
+!storage/reports/.gitkeep
+!storage/audit/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

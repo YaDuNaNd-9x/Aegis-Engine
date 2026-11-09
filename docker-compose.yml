@@ -1,0 +1,8 @@
+services:
+  analysis-sandbox:
+    image: aegis-analysis-sandbox:1.0
+    build:
+      context: ./sandbox
+      dockerfile: Dockerfile
+    profiles:
+      - build

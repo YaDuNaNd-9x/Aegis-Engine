@@ -1,0 +1,69 @@
+
+INDUSTRIAL STANDARD OPERATING PROCEDURE
+
+Document ID: SOP-PUMP-001
+Title: Centrifugal Pump Maintenance
+Department: Mechanical Maintenance
+Revision: 1.0
+
+1. PURPOSE
+
+This procedure establishes the maintenance requirements
+for centrifugal pumps operating in industrial facilities.
+
+2. DAILY INSPECTION
+
+Operators must inspect centrifugal pumps every day.
+
+The inspection must include:
+- Checking abnormal vibration.
+- Checking unusual noise.
+- Inspecting oil leakage.
+- Monitoring operating temperature.
+- Checking mechanical seal leakage.
+
+3. TEMPERATURE LIMITS
+
+The normal operating temperature for the pump bearing
+must remain between 40 and 75 degrees Celsius.
+
+If the bearing temperature exceeds 75 degrees Celsius,
+the operator must notify the maintenance supervisor
+and initiate the approved inspection procedure.
+
+4. VIBRATION MONITORING
+
+The normal vibration velocity must remain below
+4.5 mm/s RMS.
+
+If vibration exceeds 4.5 mm/s RMS, the maintenance
+team must investigate possible misalignment,
+bearing damage or mechanical looseness.
+
+5. LUBRICATION
+
+Pump bearing lubrication must be inspected weekly.
+
+The maintenance team must verify lubricant condition
+and ensure that the correct lubricant specification
+is used.
+
+6. PREVENTIVE MAINTENANCE
+
+A comprehensive preventive maintenance inspection
+must be performed every 500 operating hours.
+
+The inspection must include bearing condition,
+shaft alignment, coupling condition and seal integrity.
+
+7. SAFETY
+
+Before performing maintenance, the pump must be
+isolated from its energy sources.
+
+Lockout and tagout procedures must be followed.
+
+Maintenance personnel must wear appropriate
+personal protective equipment.
+
+END OF DOCUMENT
